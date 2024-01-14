@@ -13,11 +13,11 @@ The second file, `style.css`, needs a specifically formatted comment on top, con
 
 ```
 /*
-Theme Name: SuperCarros Template
-Author: tiagomartins.eu
-Description: Custom template developed for the SuperCarros.pt website.
+Theme Name: Template name
+Author: Author name
+Description: Custom template developed for website.com.
 Version: 0.0.1
-Tags: bootstrap, supercarros
+Tags: bootstrap
 */
 ```
 
